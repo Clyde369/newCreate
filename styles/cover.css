@@ -30,7 +30,7 @@ body {
   width: 100%;
   background:linear-gradient(-45deg,#393b44,#393b44,#1a1c20,#41444b);
   background-size: 400% 400%;
-  animation:gradient 50s ease infinite;
+  animation:gradient 55s ease infinite;
 }
 
 body {
